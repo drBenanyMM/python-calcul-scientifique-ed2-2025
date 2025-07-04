@@ -1,7 +1,7 @@
 
-# Formation Doctorale : Python pour le calcul scientifique – Semaine 1
+# FD : PCS – Groupe In_Av – Semaine 1
 
-## 📘 Lecture obligatoire
+## Étape 1 – Lecture obligatoire
 Vous devez lire les **3 premiers chapitres** du livre :
 
 **Titre :** Scientific Computing with Python – Second Edition  
@@ -11,16 +11,41 @@ Vous devez lire les **3 premiers chapitres** du livre :
 - Tableaux avec NumPy
 - Premiers éléments de performance scientifique
 
-## 📝 Travail à rendre
+## Étape 2 – Travail à rendre
 Chaque doctorant doit :
 
-1. **Rédiger un résumé personnel** (en 15 à 20 lignes maximum) des chapitres 1 à 3.
+1. **Rédiger un résumé personnel** (en 5 à 10 pages - sans GPT) des chapitres 1 à 3.
 2. Utiliser le format Markdown `semaine1.md` dans son dépôt GitHub personnel.
 3. Décrire en quelques lignes les notions qu'il ou elle maîtrise déjà, et celles à approfondir.
 4. Déposer aussi les codes Python produits lors des exercices de lecture.
 
+
+## Étape 3 – Résumé réflexif (Groupe 1 et 2)
+
+### 1. Ce que nous avons fait
+Décrivez brièvement les activités de la semaine 1 :
+- Résumé de ce que nous avons fait dans la premire semane de la foamtion
+
+### 2. Ce que vous avez appris
+Listez les notions importantes que vous avez comprises ou découvertes cette semaine :
+- ...
+- ...
+- ...
+
+### 3. Vos attentes
+Qu’attendez-vous des prochaines semaines de formation ?
+- ...
+- ...
+
+### 4. Les difficultés rencontrées
+Soyez honnête : ce qui vous a semblé difficile, flou ou frustrant :
+- ...
+
+
 ## ⏳ Deadline
-Dimanche à 20h — tout dépôt non mis à jour sera considéré comme incomplet.
+📌 **Vendredi 10/07/2025 à 23h59**
+
+Bon courage à vous tous !
 
 ---
 

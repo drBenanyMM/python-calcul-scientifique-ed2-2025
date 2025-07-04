@@ -1,5 +1,5 @@
 
-# Formation Doctorale : Python pour le calcul scientifique – Groupe Débutant – Semaine 1
+# FD : PCS – Groupe Débutant – Semaine 1
 
 ## 🖥️ Objectif principal
 Vous familiariser avec les outils de développement Python, sans difficulté technique.
@@ -43,7 +43,7 @@ for n in nombres:
 
 ## Étape 3 – À rendre
 
-📁 Dans votre dépôt GitHub `python-journal-2025-NOM_PRENOM`, créez :
+📁 Dans votre dépôt GitHub `python-journal-2025-NUM_NOM_PRENOM`, créez :
 
 - Un dossier `codes/semaine1/`
 - Déposez-y votre fichier `premiers_pas.ipynb`
@@ -51,10 +51,31 @@ for n in nombres:
   - L’environnement utilisé (Anaconda, Colab, autre)
   - Ce que vous avez réussi à faire ou pas
   - Vos impressions générales
-
 ---
 
+## Étape 4 – Résumé réflexif (Groupe 1)
+
+### 1. Ce que nous avons fait
+Décrivez brièvement les activités de la semaine 1 :
+- Résumé de ce que nous avons fait dans la premire semane de la foamtion
+
+### 2. Ce que vous avez appris
+Listez les notions importantes que vous avez comprises ou découvertes cette semaine :
+- ...
+- ...
+- ...
+
+### 3. Vos attentes
+Qu’attendez-vous des prochaines semaines de formation ?
+- ...
+- ...
+
+### 4. Les difficultés rencontrées
+Soyez honnête : ce qui vous a semblé difficile, flou ou frustrant :
+- ...
+
+
 ## ⏳ Deadline
-📌 **Dimanche à 20h**
+📌 **Vendredi 10/07/2025 à 23h59**
 
 Bon courage à vous tous !
